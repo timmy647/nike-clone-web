@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Nike Clone Website powered by React and designed with the sleek aesthetics of Tailwind CSS, we bring you a platform that pays homage to the iconic Nike brand while offering a unique and engaging shopping experience.
+
+I owe a special thanks to Adrian Hajdin, the JavaScript mastery guru, whose tutorial and guidance have helped shape this remarkable project. If you're interested in exploring more of Adrian's work, be sure to check out his GitHub repository at Adrian Hajdin - JS Mastery.
 
 ## Available Scripts
 
