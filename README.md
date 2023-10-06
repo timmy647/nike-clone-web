@@ -1,4 +1,4 @@
-# Nike Landing Web Page
+# Nike Clone Web Page
 
 This project is Nike Clone Website powered by React and designed with the sleek aesthetics of Tailwind CSS, we bring you a platform that pays homage to the iconic Nike brand while offering a unique and engaging shopping experience.
 
